@@ -1,0 +1,12 @@
+com\hand\Exam\App.class
+com\hand\Exam\AfterInsertEvenHandler.class
+com\hand\Exam\FilmMapper.class
+com\hand\Exam\BeforeEventHandler.class
+com\hand\Exam\CStopEventHandler.class
+com\hand\Exam\CStartEventHandler.class
+com\hand\Exam\BeforeInsertEvent.class
+com\hand\Exam\Film.class
+com\hand\Exam\AfterEventHandler.class
+com\hand\Exam\FilmJDBCTemplate.class
+com\hand\Exam\CustomEventPublisher.class
+com\hand\Exam\AfterInsertEvent.class

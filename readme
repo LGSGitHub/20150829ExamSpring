@@ -1,0 +1,3 @@
+1、从GitHub下载项目到本地，然后执行mvn clean
+2、执行mvn compile
+3、执行mvn exec:java -Dexec.mainClass="com.hand.Exam.App"
